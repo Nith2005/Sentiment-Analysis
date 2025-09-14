@@ -1,0 +1,14 @@
+# Ignore dataset and model cache
+/input/
+*.csv
+*.zip
+*.pt
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
